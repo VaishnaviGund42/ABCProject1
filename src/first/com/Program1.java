@@ -12,7 +12,7 @@ public class Program1 {
 		System.out.println("Hell Pallu");
 		System.out.println("Hello Taanu");
 		System.out.println("Hello Dumee");
-		
+	
 
 	}
 
